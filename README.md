@@ -1,4 +1,8 @@
-# Awesome Ai
+# Awesome AI
+
+> [!NOTE]  
+> THIS REPO IS WORK IN PROGRESS!
+
 
 ## Tools 
 ### Search
