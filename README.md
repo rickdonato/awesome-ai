@@ -7,3 +7,6 @@
 ## Tools 
 ### Search
 - https://www.perplexity.ai/
+
+### Voice
+- https://elevenlabs.io/
