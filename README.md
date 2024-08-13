@@ -10,3 +10,6 @@
 
 ### Voice
 - https://elevenlabs.io/
+
+### Presentations
+- https://www.napkin.ai/
