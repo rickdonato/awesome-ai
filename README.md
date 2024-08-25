@@ -13,3 +13,6 @@
 
 ### Presentations
 - https://www.napkin.ai/
+
+### Editors
+- https://zed.dev/ai
