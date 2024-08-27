@@ -19,4 +19,5 @@
 - https://www.cursor.com/
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 - https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+- https://continue.dev/
 - 
