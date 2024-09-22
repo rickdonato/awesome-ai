@@ -15,9 +15,10 @@
 - https://www.napkin.ai/
 
 ### Editors
-- https://zed.dev/ai
-- https://www.cursor.com/
-- https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
-- https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
-- https://continue.dev/
-- 
+- Continue - https://www.continue.dev/ 
+- GoPilot - https://lnkd.in/efQRWaGv 
+- ClaudeDev - https://lnkd.in/erX6HRYP 
+- Zed AI - https://zed.dev/ai 
+- Aider - https://aider.chat/ 
+- Cursor - https://www.cursor.com/
+- PairAI - https://trypear.ai/
