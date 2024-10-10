@@ -22,3 +22,6 @@
 - Aider - https://aider.chat/ 
 - Cursor - https://www.cursor.com/
 - PairAI - https://trypear.ai/
+
+### Learning
+- What is RAG? - https://youtu.be/u47GtXwePms?si=E7OvmqmMa1dU0E0q
