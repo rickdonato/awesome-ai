@@ -16,8 +16,8 @@
 
 ### Editors
 - Continue - https://www.continue.dev/ 
-- GoPilot - https://lnkd.in/efQRWaGv 
-- ClaudeDev - https://lnkd.in/erX6HRYP 
+- CoPilot - https://github.com/features/copilot
+- ClaudeDev - https://github.com/clinebot/cline
 - Zed AI - https://zed.dev/ai 
 - Aider - https://aider.chat/ 
 - Cursor - https://www.cursor.com/
