@@ -14,7 +14,7 @@
 ### Presentations
 - https://www.napkin.ai/
 
-### Editors
+### Code Editors
 - Continue - https://www.continue.dev/ 
 - CoPilot - https://github.com/features/copilot
 - ClaudeDev - https://github.com/clinebot/cline
