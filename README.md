@@ -23,5 +23,10 @@
 - Cursor - https://www.cursor.com/
 - PairAI - https://trypear.ai/
 
+### Libraries
+docling - https://ds4sd.github.io/docling/v2/ 
+
 ### Learning
 - What is RAG? - https://youtu.be/u47GtXwePms?si=E7OvmqmMa1dU0E0q
+
+
