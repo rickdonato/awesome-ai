@@ -14,6 +14,11 @@
 ### Presentations
 - https://www.napkin.ai/
 
+### DBs (Vector)
+- https://www.pinecone.io/
+- https://github.com/chroma-core/chroma
+- https://supabase.com/
+
 ### Code Editors
 - Continue - https://www.continue.dev/ 
 - CoPilot - https://github.com/features/copilot
@@ -24,7 +29,7 @@
 - PairAI - https://trypear.ai/
 
 ### Libraries
-docling - https://ds4sd.github.io/docling/v2/ 
+- docling - https://ds4sd.github.io/docling/v2/ 
 
 ### Learning
 - What is RAG? - https://youtu.be/u47GtXwePms?si=E7OvmqmMa1dU0E0q
