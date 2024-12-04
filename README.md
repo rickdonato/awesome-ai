@@ -27,6 +27,7 @@
 - Aider - https://aider.chat/ 
 - Cursor - https://www.cursor.com/
 - PairAI - https://trypear.ai/
+- Windsurf - https://codeium.com/windsurf
 
 ### Libraries
 - docling - https://ds4sd.github.io/docling/v2/ 
