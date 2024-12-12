@@ -29,6 +29,9 @@
 - PairAI - https://trypear.ai/
 - Windsurf - https://codeium.com/windsurf
 
+### RAG
+- Minima - https://github.com/dmayboroda/minima
+
 ### Libraries
 - docling - https://ds4sd.github.io/docling/v2/ 
 
