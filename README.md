@@ -31,6 +31,10 @@
 
 ### RAG
 - Minima - https://github.com/dmayboroda/minima
+- Parlant - https://github.com/emcie-co/parlant
+
+### Workflow
+- Dify - https://dify.ai/
 
 ### Libraries
 - docling - https://ds4sd.github.io/docling/v2/ 
